@@ -1,0 +1,23 @@
+{
+  "name": "apple_ceos",
+  "version": "1.0.0",
+  "description": "demo project for Digital Crafts",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/careecodes/Apple_CEOs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/careecodes/Apple_CEOs/issues"
+  },
+  "homepage": "https://github.com/careecodes/Apple_CEOs#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.2"
+  }
+}
